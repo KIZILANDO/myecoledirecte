@@ -1,5 +1,5 @@
 # MyEcoleDirecte
-Cet interface vous permettra de voir votre moyenne et la moyenne de la classe.
+Cet interface vous permettra de voir votre moyenne et la moyenne de la classe sur EcoleDirecte.
 ## Téléchargement
 ## Prérequis
 ```console
