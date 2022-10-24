@@ -4,6 +4,8 @@ Cet interface vous permettra de voir votre moyenne et la moyenne de la classe.
 ## Prérequis
 ```console
 pip install ecoledirecteapi
+```
+```console
 pip install tkextrafont
 ```
 Puis téléchargez le zip de ce projet.
